@@ -1,5 +1,7 @@
 # UDEMY
-### [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
+
+<a href="https://www.udemy.com/the-complete-web-developer-zero-to-mastery/" target="_blank"><h3>The Complete Web Developer in 2019: Zero to Mastery<h3></a>
+
 + Publishing Date: 05/2018
 + Instructor: Andrei Neagoie
 + Level: Beginner
