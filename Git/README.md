@@ -11,7 +11,7 @@ Official Git website with all basic resources you need to start using Git. Branc
 
 3. Videos: Collection of videos that will teach you the basics
 
-<sub><a name=#discalimer1>*</a> The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license</sub>
+<sub><a name=#discalimer1>*</a> The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license</sub>
 
 ------
 
